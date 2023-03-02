@@ -1,7 +1,7 @@
 <h1>👋 Hi there, I'm Marco.   Full Stack Developer.</h1>
 
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 <p>
   I'm 22 years old. I enjoy working on challenging projects and collaborating with others to create solutions that are both elegant and efficient.
@@ -13,14 +13,14 @@
 
 <hr />
 
-<h3>Values</h3>
+<h2>Values</h2>
 <p>
   I value teamwork and communication, and I believe that a positive work environment is essential for productivity and personal growth. If you have any questions or are interested in collaborating, feel free to reach out to me!
 </p>
 
 <hr />
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
