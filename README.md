@@ -4,11 +4,7 @@
 <h3>About Me</h3>
 
 <p>
-  I'm 22 years old. I enjoy working on challenging projects and collaborating with others to create solutions that are both elegant and efficient.
-</p>
-
-<p>
- 👨‍💻 I am Marco, a passionate Software Developer experienced in the MERN stack. With a strong problem-solving mindset and excellent communication skills, I thrive in collaborative team environments.
+👨‍💻 I am Marco, a passionate Software Developer experienced in the MERN stack. With a strong problem-solving mindset and excellent communication skills, I thrive in collaborative team environments.
   
 💡 My journey in software development has allowed me to specialize in building robust and scalable web applications. I find joy in crafting elegant solutions that not only meet the technical requirements but also deliver seamless user experiences.
 
