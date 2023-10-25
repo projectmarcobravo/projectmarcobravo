@@ -4,7 +4,7 @@
 <h3>About Me</h3>
 
 <p>
-👨‍💻 I am Marco, a passionate Software Developer experienced in the MERN stack. With a strong problem-solving mindset and excellent communication skills, I thrive in collaborative team environments.
+👨‍💻 I am a passionate Software Developer experienced in the MERN stack. With a strong problem-solving mindset and excellent communication skills, I thrive in collaborative team environments.
   
 💡 My journey in software development has allowed me to specialize in building robust and scalable web applications. I find joy in crafting elegant solutions that not only meet the technical requirements but also deliver seamless user experiences.
 
