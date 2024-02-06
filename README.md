@@ -1,4 +1,4 @@
-<h1>👋 I'm Marco.   Full Stack Developer.</h1>
+<h1>I am Marco.</h1>
 
 
 <h3>About Me</h3>
